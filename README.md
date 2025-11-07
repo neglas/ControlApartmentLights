@@ -1,2 +1,2 @@
 # LedWeb
-for controlling ledlights via rpi
+for controlling apartment lights via rpi
